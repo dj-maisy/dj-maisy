@@ -1,5 +1,5 @@
 # David 'Maisy' Mays - @dj-maisy
-Hi, I'm David! I answer to David, "Dave" or "Maisy" and I'm a Site Reliability Engineer (Civil Servant) with [GDS](https://github.com/alphagov). I spend a lot of time up to my knees in Terraform, AWS, Docker and a bunch of other tools and technologies typically associated with DevOps people.
+Hi, I'm David! I answer to David, "Dave" or "Maisy" and I'm a Senior Site Reliability Engineer (Civil Servant) with [GDS](https://github.com/alphagov). I spend a lot of time up to my knees in Terraform, AWS, Docker and a bunch of other tools and technologies typically associated with DevOps people.
 
 ## Tech
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
