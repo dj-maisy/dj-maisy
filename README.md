@@ -7,6 +7,7 @@ Hi, I'm David! I answer to David, "Dave" or "Maisy" and I'm a Senior Site Reliab
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=Go&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-3970e4?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-purple?style=flat-square&logo=Terraform)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
